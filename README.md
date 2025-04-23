@@ -10,7 +10,7 @@
 - 🌱 I’m learning **YOLOv8**, **TensorFlow**, **EasyOCR** and improving my skills in **Machine Learning**, **Data Science**.
 - 🤝 Actively involved with **U&I Organization**, helping orphanage kids through teaching and fundraising.
 - 🎯 Interested in collaborating on **Machine Learning and Data Science projects**, and **Innovative Tech Solutions**.
-- 📬 How to reach me: **nupurkirwai14@gmail.com** (You can replace this with your actual email!)
+- 📬 How to reach me: **nupurkirwai14@gmail.com**
 - 🌟 Fun fact: **I love making learning fun and inspiring myself to dream bigger and achieve more!**
 
 ---
