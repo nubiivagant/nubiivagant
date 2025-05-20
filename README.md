@@ -2,8 +2,6 @@
 
 ## Curious Learner 
 
-![Profile Views](https://komarev.com/ghpvc/?username=nubiivagant&label=Profile%20views&color=0e75b6&style=flat)
-
 ---
 
 - 🎓 I'm a **third-year Computer Science Engineering student** who's passionate about building cool stuff with **Python** 🐍, diving into **Machine Learning, AI and Data science** 🤖, and exploring new tech every day.
