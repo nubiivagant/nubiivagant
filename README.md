@@ -8,7 +8,7 @@
 
 - 🎓 I'm a **third-year Computer Science Engineering student** who's passionate about building cool stuff with **Python** 🐍, diving into **Machine Learning, AI and Data science** 🤖, and exploring new tech every day.
 - 🌟 I believe in learning by doing and growing by sharing.
-- 🌱 I’m learning improving my skills in **Machine Learning**, **Data Science**.
+- 🌱 I’m learning and improving my skills in **Machine Learning**, **Data Science**.
 - 🎯 Interested in collaborating on **Machine Learning and Data Science projects**, and **Innovative Tech Solutions**.
 - 📬 Here is how you could reach me: **nupurkirwai14@gmail.com**
 
